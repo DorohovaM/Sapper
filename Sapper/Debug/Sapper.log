@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User-work\source\repos\Sapper\Sapper\Source.cpp(94,13): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User-work\source\repos\Sapper\Sapper\Source.cpp(94,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\User-work\source\repos\Sapper\Sapper\Source.cpp(494,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sapper.vcxproj -> C:\Users\User-work\source\repos\Sapper\Debug\Sapper.exe
